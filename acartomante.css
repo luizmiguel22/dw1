@@ -1,0 +1,46 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Fonte alternativa com letras bonitas */
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #00264d, #001a33); /* Fundo gradiente azul escuro */
+    color: #fff; /* Cor do texto */
+    transition: background 0.5s ease; /* Suaviza a transição do fundo */
+}
+
+.header {
+    padding: 20px 0;
+    text-align: center; /* Centraliza o texto */
+    font-style: italic; /* Transforma o texto em itálico */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, p {
+    color: #fff; 
+    font-size: 24px; 
+    font-style: italic;
+    text-align: center;
+    width: 450px;
+    margin-left: 450px;
+}
+
+button {
+    background: linear-gradient(to bottom, #0059b3, #003366); /* Gradiente de azul escuro */
+    color: #fff; /* Cor do texto nos botões */
+    border: none;
+    padding: 14px 28px; /* Aumenta o tamanho do botão */
+    margin: 10px auto; /* Centraliza horizontalmente */
+    display: block; /* Para que a margem auto funcione */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.3s ease; /* Suaviza a transição do fundo e da transformação */
+}
+
+button:hover {
+    background: linear-gradient(to bottom, #003366, #0059b3); /* Efeito hover mais claro */
+    transform: scale(1.05); /* Aumenta a escala do botão em 5% */
+}

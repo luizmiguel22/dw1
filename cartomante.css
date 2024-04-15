@@ -1,0 +1,47 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #00264d, #001a33); /* Cor gradiante azul escuro */
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align:center;
+    margin-bottom: 15px; 
+    width: 650px;
+    margin-left: 335px;
+    font-size: 24px; 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 55%; /* Largura máxima de 50% */
+    height: auto;
+    margin-left: 135px;
+}
+
+button {
+    background: linear-gradient(to bottom, #0059b3, #003366); /* Cor de fundo do botão */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    margin-left: 545px;
+    transition: transform 0.3s ease; /* Transição suave */
+}
+
+button:hover {
+    transform: translateY(-5px); /* Flutuar para cima 5 pixels ao passar o mouse */
+}
+.volta{margin-left: 610px;}
