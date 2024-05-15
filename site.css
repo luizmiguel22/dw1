@@ -1,0 +1,70 @@
+div{width:650px ;
+color: white;
+margin-left: 450px;}
+*{background-color: rgb(10, 10, 10);}
+img{width: 100px}
+.oi{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+width: 350px;
+font-size: 40px;}
+.gmail{font-family:Arial, Helvetica, sans-serif;
+margin-top: 60px;
+font-size: 15px;
+width: 350px;}
+.in{margin-left: 450px;
+height: 50px;
+width: 450px;
+border-radius: 7px;
+width: 350px;}
+.telefone{text-decoration:underline;
+color:#02a14a;
+margin-left: 470px;}
+.avan{margin-left: 455px;
+width: 350px;
+height: 50px;
+border-radius: 30px;
+background-color: #058c42;
+font-size: 16px;
+font-variant: small-caps;}
+.ou{margin-left: 450px;
+color: white;}
+.avana{margin-left: 455px;
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    font-variant: small-caps;
+margin-right: 30px;
+line-height: 20px;
+margin-top: 10px;}
+.go{width: 30px;
+height: 30px;
+}
+.aple{margin-left: 455px;
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    font-variant: small-caps;
+margin-right: 30px;
+line-height: 20px;
+margin-top: 10px;}
+
+.face{margin-left: 455px;
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    font-size: 16px;
+    font-variant: small-caps;
+margin-right: 30px;
+line-height: 20px;
+margin-top: 10px;
+}
+.oa{margin-left: 515px;
+margin-top: 20px;
+color: white;
+}
+.ae{color: rgba(255, 255, 255, 0.76)
+    ;}
